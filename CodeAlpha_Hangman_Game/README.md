@@ -39,7 +39,5 @@ The player is allowed a maximum of 6 incorrect guesses.
 ```bash
 python hangman.py
 ## Developer
-Name:Shital Kashid
+Name:Shital Annasaheb Kashid
 
-Purpose
-This project was created as part of the CodeAlpha Python Programming Internship to practice Python programming concepts such as loops, conditional statements, strings, lists, user input, and random word selection.
