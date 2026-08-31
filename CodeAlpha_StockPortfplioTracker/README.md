@@ -36,4 +36,4 @@ The program allows users to select stocks, enter quantities, and calculate the t
 python stock_tracker.py
 
 ##Developer name
-Name: Shital Kashid
+Name: Shital Annasaheb Kashid
