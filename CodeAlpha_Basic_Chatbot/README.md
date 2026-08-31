@@ -1,39 +1,37 @@
-# Stock Portfolio Tracker
+# Basic Chatbot
 
-##  Project Overview
+## Project Overview
 
-Stock Portfolio Tracker is a simple Python console-based application developed as part of the CodeAlpha Python Programming Internship.
+Basic Chatbot is a simple rule-based chatbot developed using Python.
 
-The program allows users to select stocks, enter quantities, and calculate the total investment value based on predefined stock prices.
+The chatbot accepts user input and provides predefined responses based on the user's message.
 
-##  Features
+## Features
 
-- Display available stocks and prices
-- Add stocks to portfolio
-- Enter stock quantity
-- Calculate investment value
-- Display total portfolio value
-- Input validation
+- Greeting response
+- "How are you?" response
+- Goodbye response
+- Continuous conversation using a loop
+- Handles unknown inputs
 - Simple console-based interface
 
 ## Technologies Used
 
 - Python
-- Dictionary
-- Loops
-- Conditional Statements
-- Functions/Logic
-- Exception Handling
+- If-elif-else
+- While loop
+- User input
+- String methods
 
 ## How to Run
 
 1. Install Python.
 2. Open the project folder in VS Code.
 3. Open the terminal.
-4. Run:
+4. Run the following command:
 
 ```bash
-python stock_tracker.py
+python chatbot.py
 
-##Developer name
-Name: Shital Annasaheb Kashid
+#Developer
+Name :Shital Annasaheb Kashid
